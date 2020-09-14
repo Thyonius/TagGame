@@ -1,11 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T09:29:07.086Z" agent="5.0 (Linux; Android 10; Pixel 2 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36" etag="RC8Kp6oczIZNrgmZ1ZM9" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T09:34:13.117Z" agent="5.0 (Linux; Android 10; Pixel 2 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36" etag="rfBWG4V8_FY4boPpvFw-" version="13.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Gameplay flow">
     <mxGraphModel dx="540" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="OtnTEiLP755R2IgnLlQw-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="OtnTEiLP755R2IgnLlQw-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="160" />
+              <mxPoint x="150" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OtnTEiLP755R2IgnLlQw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="OtnTEiLP755R2IgnLlQw-4">
           <mxGeometry relative="1" as="geometry" />
